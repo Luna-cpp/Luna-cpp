@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello!!!!</h1>
-  <p>i do dev things</p>
+  <h1>Hello.</h1>
+  <p>Founder @ Asta & Lunaris</p>
 
   <hr />
 
